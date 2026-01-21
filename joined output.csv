@@ -1,0 +1,6 @@
+CustomerId,CustomerName,InvoiceId,InvoiceDate,Total
+1,Luis Goncalves,98,2013-01-01,3.98
+2,Leonie Kohler,121,2013-01-02,5.99
+3,Francois Tremblay,143,2013-01-03,8.91
+4,Bjorn Hansen,201,2013-01-04,13.86
+5,Frantisek Wichterlová,251,2013-01-05,1.99
