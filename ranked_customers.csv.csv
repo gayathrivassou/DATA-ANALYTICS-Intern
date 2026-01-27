@@ -1,0 +1,4 @@
+customer_name,region,total_sales,rank_in_region
+Customer A,East,15000,1
+Customer B,East,12000,2
+Customer C,West,18000,1

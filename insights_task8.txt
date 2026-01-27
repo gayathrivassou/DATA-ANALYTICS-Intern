@@ -1,0 +1,6 @@
+
+1. Window functions enable advanced analytics like ranking and running totals without collapsing rows, unlike GROUP BY queries.
+
+2. DENSE_RANK is ideal for identifying top performers because it avoids ranking gaps when ties occur.
+
+3. Month-over-Month (MoM) growth analysis using LAG helps track business trends and detect performance increases or declines.
